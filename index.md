@@ -1,257 +1,174 @@
-<html lang="en" class="scroll-smooth"><head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mansour Shahhosseini - PhD Student</title>
-    <meta name="description" content="PhD Student in Quantitative Marketing at UTD">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script src="https://unpkg.com/lucide@latest"></script>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&amp;display=swap" rel="stylesheet">
-    <style>
-        body { font-family: 'Inter', sans-serif; }
-        /* Refined scrollbar */
-        ::-webkit-scrollbar { width: 6px; }
-        ::-webkit-scrollbar-track { background: transparent; }
-        ::-webkit-scrollbar-thumb { background-color: #e4e4e7; border-radius: 3px; }
-        ::-webkit-scrollbar-thumb:hover { background-color: #d4d4d8; }
-    </style>
-<link id="all-fonts-link-font-geist" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600;700&amp;display=swap"><style id="all-fonts-style-font-geist">.font-geist { font-family: 'Geist', sans-serif !important; }</style><link id="all-fonts-link-font-roboto" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600;700&amp;display=swap"><style id="all-fonts-style-font-roboto">.font-roboto { font-family: 'Roboto', sans-serif !important; }</style><link id="all-fonts-link-font-montserrat" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&amp;display=swap"><style id="all-fonts-style-font-montserrat">.font-montserrat { font-family: 'Montserrat', sans-serif !important; }</style><link id="all-fonts-link-font-poppins" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&amp;display=swap"><style id="all-fonts-style-font-poppins">.font-poppins { font-family: 'Poppins', sans-serif !important; }</style><link id="all-fonts-link-font-playfair" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;900&amp;display=swap"><style id="all-fonts-style-font-playfair">.font-playfair { font-family: 'Playfair Display', serif !important; }</style><link id="all-fonts-link-font-instrument-serif" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:wght@400;500;600;700&amp;display=swap"><style id="all-fonts-style-font-instrument-serif">.font-instrument-serif { font-family: 'Instrument Serif', serif !important; }</style><link id="all-fonts-link-font-merriweather" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700;900&amp;display=swap"><style id="all-fonts-style-font-merriweather">.font-merriweather { font-family: 'Merriweather', serif !important; }</style><link id="all-fonts-link-font-bricolage" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@300;400;500;600;700&amp;display=swap"><style id="all-fonts-style-font-bricolage">.font-bricolage { font-family: 'Bricolage Grotesque', sans-serif !important; }</style><link id="all-fonts-link-font-jakarta" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&amp;display=swap"><style id="all-fonts-style-font-jakarta">.font-jakarta { font-family: 'Plus Jakarta Sans', sans-serif !important; }</style><link id="all-fonts-link-font-manrope" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700;800&amp;display=swap"><style id="all-fonts-style-font-manrope">.font-manrope { font-family: 'Manrope', sans-serif !important; }</style><link id="all-fonts-link-font-space-grotesk" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&amp;display=swap"><style id="all-fonts-style-font-space-grotesk">.font-space-grotesk { font-family: 'Space Grotesk', sans-serif !important; }</style><link id="all-fonts-link-font-work-sans" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500;600;700;800&amp;display=swap"><style id="all-fonts-style-font-work-sans">.font-work-sans { font-family: 'Work Sans', sans-serif !important; }</style><link id="all-fonts-link-font-pt-serif" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&amp;display=swap"><style id="all-fonts-style-font-pt-serif">.font-pt-serif { font-family: 'PT Serif', serif !important; }</style><link id="all-fonts-link-font-geist-mono" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist+Mono:wght@300;400;500;600;700&amp;display=swap"><style id="all-fonts-style-font-geist-mono">.font-geist-mono { font-family: 'Geist Mono', monospace !important; }</style><link id="all-fonts-link-font-space-mono" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&amp;display=swap"><style id="all-fonts-style-font-space-mono">.font-space-mono { font-family: 'Space Mono', monospace !important; }</style><link id="all-fonts-link-font-quicksand" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&amp;display=swap"><style id="all-fonts-style-font-quicksand">.font-quicksand { font-family: 'Quicksand', sans-serif !important; }</style><link id="all-fonts-link-font-nunito" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;500;600;700;800&amp;display=swap"><style id="all-fonts-style-font-nunito">.font-nunito { font-family: 'Nunito', sans-serif !important; }</style></head>
-<body class="bg-white text-zinc-600 antialiased selection:bg-zinc-100 selection:text-zinc-900">
+---
+layout: default
+title: "Mansour Shahhosseini"
+description: "PhD Student in Quantitative Marketing at UTD"
+---
 
-    <div class="min-h-screen max-w-5xl mx-auto flex flex-col md:flex-row">
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    let footer = document.querySelector("footer");
+    if (footer) {
+        footer.innerHTML = "Life is not fair, nor is it unfair. It is what it is.";
+    }
+});
+</script>
 
-        <!-- Left Sidebar / Profile Section -->
-        <aside class="w-full md:w-80 flex-shrink-0 p-8 md:p-12 md:h-screen md:sticky md:top-0 flex flex-col border-b md:border-b-0 md:border-r border-zinc-100">
-            <div class="flex-1">
-                <!-- Profile Image -->
-                <div class="w-32 h-32 rounded-full overflow-hidden mb-8 bg-zinc-50 border border-zinc-100 ring-1 ring-zinc-50">
-                    <!-- Using the path provided in your input -->
-                    <img src="https://api.dicebear.com/7.x/notionists/svg?seed=Mansour&amp;backgroundColor=e5e7eb" alt="Mansour Shahhosseini" class="hover:opacity-100 transition-opacity opacity-90 w-full h-full object-cover" onerror="this.src='https://api.dicebear.com/7.x/notionists/svg?seed=Mansour&amp;backgroundColor=e5e7eb'">
-                </div>
 
-                <!-- Name & Title -->
-                <h1 class="text-lg font-medium tracking-tight text-zinc-900 mb-2">Mansour Shahhosseini</h1>
-                <p class="text-sm text-zinc-500 leading-relaxed mb-6">
-                    PhD Student in Quantitative Marketing<br>
-                    The University of Texas at Dallas
-                </p>
+<style>
+/* Remove the horizontal rule above the image */
+hr {
+  display: none; /* Hides all <hr> elements */
+}
 
-                <!-- CV Button -->
-                <a href="https://www.dropbox.com/scl/fi/xesa5zyqnbydtcvs8wkty/MansourShahhosseini_CV.docx?rlkey=qdrngb2cws7po5t5f38hnsdi9&amp;st=gp67fcdc&amp;dl=0" class="inline-flex items-center gap-2 px-4 py-2 bg-zinc-900 text-white text-xs font-medium rounded-md hover:bg-zinc-800 transition-colors shadow-sm mb-8 group">
-                    <span>Download CV</span>
-                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="arrow-down-to-line" class="lucide lucide-arrow-down-to-line w-3.5 h-3.5 text-zinc-300 group-hover:text-white transition-colors"><path d="M12 17V3"></path><path d="m6 11 6 6 6-6"></path><path d="M19 21H5"></path></svg>
-                </a>
+/* OR: Target only the first <hr> if others are needed */
+header + hr {
+  display: none;
+}
+</style>
 
-                <!-- Contact Links -->
-                <div class="flex flex-col gap-3">
-                    <a href="mailto:mansour.shahhosseini@utdallas.edu" class="flex items-center gap-3 text-sm text-zinc-500 hover:text-zinc-900 transition-colors group">
-                        <div class="w-8 h-8 rounded-md bg-zinc-50 flex items-center justify-center border border-zinc-100 group-hover:border-zinc-200 transition-colors">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="mail" class="lucide lucide-mail w-4 h-4"><path d="m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7"></path><rect x="2" y="4" width="20" height="16" rx="2"></rect></svg>
-                        </div>
-                        <span>Email</span>
-                    </a>
-                    <a href="https://github.com/MansourShahhosseini" target="_blank" class="flex items-center gap-3 text-sm text-zinc-500 hover:text-zinc-900 transition-colors group">
-                        <div class="w-8 h-8 rounded-md bg-zinc-50 flex items-center justify-center border border-zinc-100 group-hover:border-zinc-200 transition-colors">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="github" class="lucide lucide-github w-4 h-4"><path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"></path><path d="M9 18c-4.51 2-5-2-7-2"></path></svg>
-                        </div>
-                        <span>GitHub</span>
-                    </a>
-                    <a href="https://scholar.google.com/citations?user=8iK7T7EAAAAJ&amp;hl=en" target="_blank" class="flex items-center gap-3 text-sm text-zinc-500 hover:text-zinc-900 transition-colors group">
-                        <div class="w-8 h-8 rounded-md bg-zinc-50 flex items-center justify-center border border-zinc-100 group-hover:border-zinc-200 transition-colors">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="graduation-cap" class="lucide lucide-graduation-cap w-4 h-4"><path d="M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z"></path><path d="M22 10v6"></path><path d="M6 12.5V16a6 3 0 0 0 12 0v-3.5"></path></svg>
-                        </div>
-                        <span>Google Scholar</span>
-                    </a>
-                    <a href="https://www.linkedin.com/in/mansourshahhosseini/" target="_blank" class="flex items-center gap-3 text-sm text-zinc-500 hover:text-zinc-900 transition-colors group">
-                        <div class="w-8 h-8 rounded-md bg-zinc-50 flex items-center justify-center border border-zinc-100 group-hover:border-zinc-200 transition-colors">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="linkedin" class="lucide lucide-linkedin w-4 h-4"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect width="4" height="12" x="2" y="9"></rect><circle cx="4" cy="4" r="2"></circle></svg>
-                        </div>
-                        <span>LinkedIn</span>
-                    </a>
-                </div>
-            </div>
+<style>
+/* Center the text */
+.text-container {
+  text-align: center;
+  margin-bottom: 10px; /* Adjust space */
+}
+/* Profile image with larger size */
+.my-profile-pic {
+  display: block;
+  margin: -40px auto 0 auto; /* Pulls the image up into the line */
+  border-radius: 50%; /* Ensure circular shape */
+  width: 250px; /* Adjust to fit */
+  height: 250px;
+  object-fit: contain;
+  background-color: transparent; /* Ensure it blends with the background */
+}
+/* Black line - position controlled to prevent extra space */
+.black-line {
+  border: none;
+  border-top: 2px solid black; /* Make the line bolder if needed */
+  margin: 5px auto; /* Fine-tuned margin */
+  width: 80%; /* Adjust width to fit layout */
+}
+</style>
+<!-- Name and Title -->
+<div class="text-container">
+</div>
+<!-- Profile Picture (Ensure it's transparent for a clean effect) -->
+<img src="assets/profile.jpg" alt="Profile Photo" class="my-profile-pic" />
 
-            <!-- Quote Footer -->
-            <footer class="mt-12 pt-6 border-t border-zinc-100">
-                <p class="text-xs text-zinc-400 italic leading-relaxed">"Life is not fair, nor is it unfair. It is what it is."</p>
-            </footer>
-        </aside>
+## CV
+Please see my CV [Here](https://www.dropbox.com/scl/fi/xesa5zyqnbydtcvs8wkty/MansourShahhosseini_CV.docx?rlkey=qdrngb2cws7po5t5f38hnsdi9&st=gp67fcdc&dl=0)
 
-        <!-- Main Content -->
-        <main class="flex-1 p-8 md:p-16 space-y-16">
+## Research Interests
+**Areas:** Customer Analytics, Social Media, Unstructured Data in Marketing   
+**Methods:** Econometrics, Causal Inference, Deep Learning
 
-            <!-- Research Interests -->
-            <section>
-                <h2 class="text-xs font-medium text-zinc-400 uppercase tracking-wider mb-6">Research Interests</h2>
-                <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-                    <div>
-                        <h3 class="text-sm font-medium text-zinc-900 mb-3 flex items-center gap-2">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="target" class="lucide lucide-target w-4 h-4 text-zinc-400"><circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="6"></circle><circle cx="12" cy="12" r="2"></circle></svg> Areas
-                        </h3>
-                        <ul class="space-y-2">
-                            <li class="text-sm text-zinc-600 bg-zinc-50 px-3 py-1.5 rounded border border-zinc-100 inline-block w-full">Customer Analytics</li>
-                            <li class="text-sm text-zinc-600 bg-zinc-50 px-3 py-1.5 rounded border border-zinc-100 inline-block w-full">Social Media</li>
-                            <li class="text-sm text-zinc-600 bg-zinc-50 px-3 py-1.5 rounded border border-zinc-100 inline-block w-full">Unstructured Data in Marketing</li>
-                        </ul>
-                    </div>
-                    <div>
-                        <h3 class="text-sm font-medium text-zinc-900 mb-3 flex items-center gap-2">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="calculator" class="lucide lucide-calculator w-4 h-4 text-zinc-400"><rect width="16" height="20" x="4" y="2" rx="2"></rect><line x1="8" x2="16" y1="6" y2="6"></line><line x1="16" x2="16" y1="14" y2="18"></line><path d="M16 10h.01"></path><path d="M12 10h.01"></path><path d="M8 10h.01"></path><path d="M12 14h.01"></path><path d="M8 14h.01"></path><path d="M12 18h.01"></path><path d="M8 18h.01"></path></svg> Methods
-                        </h3>
-                        <ul class="space-y-2">
-                            <li class="text-sm text-zinc-600 bg-zinc-50 px-3 py-1.5 rounded border border-zinc-100 inline-block w-full">Econometrics</li>
-                            <li class="text-sm text-zinc-600 bg-zinc-50 px-3 py-1.5 rounded border border-zinc-100 inline-block w-full">Causal Inference</li>
-                            <li class="text-sm text-zinc-600 bg-zinc-50 px-3 py-1.5 rounded border border-zinc-100 inline-block w-full">Deep Learning</li>
-                        </ul>
-                    </div>
-                </div>
-            </section>
+## <a name="education"></a>Education
+<!-- Inline CSS for a simple vertical timeline -->
+<style>
+.timeline {
+  position: relative;
+  margin: 2rem 0;
+  padding: 0;
+  list-style: none;
+}
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 20px;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: #ddd;
+}
+.timeline-item {
+  position: relative;
+  margin: 2rem 0;
+  padding-left: 60px;
+}
+.timeline-item::before {
+  content: '';
+  position: absolute;
+  left: 10px;
+  top: 5px;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #ff3333; /* Pink circle */
+  border: 2px solid #fff;
+}
+.timeline-year {
+  font-weight: bold;
+  color: #666;
+}
+.timeline-content h4 {
+  margin: 0;
+  font-weight: bold;
+  color: #333;
+}
+.timeline-content p {
+  margin: 0.5rem 0 0;
+  color: #666;
+}
 
-            <!-- Education Timeline -->
-            <section id="education">
-                <h2 class="text-xs font-medium text-zinc-400 uppercase tracking-wider mb-8">Education</h2>
-                <div class="relative border-l border-zinc-200 ml-3 space-y-10">
-                    
-                    <!-- Item 1 -->
-                    <div class="relative pl-8 group">
-                        <span class="absolute -left-[5px] top-1.5 h-2.5 w-2.5 rounded-full bg-white border-2 border-rose-400 group-hover:border-rose-500 transition-colors"></span>
-                        <div class="flex flex-col sm:flex-row sm:items-baseline sm:justify-between mb-1">
-                            <h3 class="text-sm font-medium text-zinc-900">PhD Student</h3>
-                            <span class="text-xs font-mono text-zinc-400">2025-2029 (Expected)</span>
-                        </div>
-                        <p class="text-sm text-zinc-500">Quantitative Marketing</p>
-                        <p class="text-xs text-zinc-400 mt-0.5">The University of Texas at Dallas</p>
-                    </div>
+.timeline li {
+  list-style: none !important;
+  list-style-type: none !important;
+}
+</style>
 
-                    <!-- Item 2 -->
-                    <div class="relative pl-8 group">
-                        <span class="absolute -left-[5px] top-1.5 h-2.5 w-2.5 rounded-full bg-white border-2 border-zinc-300 group-hover:border-zinc-400 transition-colors"></span>
-                        <div class="flex flex-col sm:flex-row sm:items-baseline sm:justify-between mb-1">
-                            <h3 class="text-sm font-medium text-zinc-900">Master of Business Research</h3>
-                            <span class="text-xs font-mono text-zinc-400">2023-2025</span>
-                        </div>
-                        <p class="text-sm text-zinc-500">Quantitative Marketing</p>
-                        <p class="text-xs text-zinc-400 mt-0.5">Temple University</p>
-                    </div>
-
-                    <!-- Item 3 -->
-                    <div class="relative pl-8 group">
-                        <span class="absolute -left-[5px] top-1.5 h-2.5 w-2.5 rounded-full bg-white border-2 border-zinc-300 group-hover:border-zinc-400 transition-colors"></span>
-                        <div class="flex flex-col sm:flex-row sm:items-baseline sm:justify-between mb-1">
-                            <h3 class="text-sm font-medium text-zinc-900">Master of Business Administration</h3>
-                            <span class="text-xs font-mono text-zinc-400">2020-2023</span>
-                        </div>
-                        <p class="text-sm text-zinc-500">Marketing</p>
-                        <p class="text-xs text-zinc-400 mt-0.5">Sharif University of Technology</p>
-                    </div>
-
-                    <!-- Item 4 -->
-                    <div class="relative pl-8 group">
-                        <span class="absolute -left-[5px] top-1.5 h-2.5 w-2.5 rounded-full bg-white border-2 border-zinc-300 group-hover:border-zinc-400 transition-colors"></span>
-                        <div class="flex flex-col sm:flex-row sm:items-baseline sm:justify-between mb-1">
-                            <h3 class="text-sm font-medium text-zinc-900">Bachelor of Science</h3>
-                            <span class="text-xs font-mono text-zinc-400">2016-2020</span>
-                        </div>
-                        <p class="text-sm text-zinc-500">Materials Engineering</p>
-                        <p class="text-xs text-zinc-400 mt-0.5">Iran University of Science and Technology</p>
-                    </div>
-                </div>
-            </section>
-
-            <!-- Publications -->
-            <section id="publications">
-                <h2 class="text-xs font-medium text-zinc-400 uppercase tracking-wider mb-6">Publications</h2>
-                <div class="group block p-5 -mx-5 rounded-lg hover:bg-zinc-50 transition-colors">
-                    <a href="https://www.tandfonline.com/doi/abs/10.1080/10548408.2024.2306358" target="_blank">
-                        <h3 class="text-sm font-medium text-zinc-900 mb-2 group-hover:text-blue-600 transition-colors flex items-center gap-2">
-                            What attributes affect customer satisfaction in green restaurants? An aspect-based sentiment analysis approach
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="arrow-up-right" class="lucide lucide-arrow-up-right w-3 h-3 opacity-0 group-hover:opacity-100 transition-opacity text-blue-400"><path d="M7 7h10v10"></path><path d="M7 17 17 7"></path></svg>
-                        </h3>
-                        <p class="text-sm text-zinc-500 leading-relaxed">
-                            Shahhosseini, M., &amp; Khalili Nasr, A. (2024) · <span class="italic">Journal of Travel &amp; Tourism Marketing</span>, 41(4), 472–490.
-                        </p>
-                    </a>
-                </div>
-            </section>
-
-            <!-- Papers & WIP -->
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
-                <!-- Working Papers -->
-                <section>
-                    <h2 class="text-xs font-medium text-zinc-400 uppercase tracking-wider mb-6">Working Papers</h2>
-                    <ul class="space-y-4">
-                        <li class="flex items-start gap-3 group">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="file-text" class="lucide lucide-file-text w-4 h-4 text-zinc-300 mt-0.5 group-hover:text-zinc-600 transition-colors"><path d="M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z"></path><path d="M14 2v5a1 1 0 0 0 1 1h5"></path><path d="M10 9H8"></path><path d="M16 13H8"></path><path d="M16 17H8"></path></svg>
-                            <span class="text-sm text-zinc-700">How to Sell in the Secondhand Market</span>
-                        </li>
-                        <li class="flex items-start gap-3 group">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="file-text" class="lucide lucide-file-text w-4 h-4 text-zinc-300 mt-0.5 group-hover:text-zinc-600 transition-colors"><path d="M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z"></path><path d="M14 2v5a1 1 0 0 0 1 1h5"></path><path d="M10 9H8"></path><path d="M16 13H8"></path><path d="M16 17H8"></path></svg>
-                            <span class="text-sm text-zinc-700">What Makes a Movie Trailer Great?</span>
-                        </li>
-                    </ul>
-                </section>
-
-                <!-- Work in Progress -->
-                <section>
-                    <h2 class="text-xs font-medium text-zinc-400 uppercase tracking-wider mb-6">Work in Progress</h2>
-                    <ul class="space-y-4">
-                        <li class="flex items-start gap-3 group">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="flask-conical" class="lucide lucide-flask-conical w-4 h-4 text-zinc-300 mt-0.5 group-hover:text-rose-400 transition-colors"><path d="M14 2v6a2 2 0 0 0 .245.96l5.51 10.08A2 2 0 0 1 18 22H6a2 2 0 0 1-1.755-2.96l5.51-10.08A2 2 0 0 0 10 8V2"></path><path d="M6.453 15h11.094"></path><path d="M8.5 2h7"></path></svg>
-                            <span class="text-sm text-zinc-700">Customer Guided GenAI</span>
-                        </li>
-                        <li class="flex items-start gap-3 group">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="flask-conical" class="lucide lucide-flask-conical w-4 h-4 text-zinc-300 mt-0.5 group-hover:text-rose-400 transition-colors"><path d="M14 2v6a2 2 0 0 0 .245.96l5.51 10.08A2 2 0 0 1 18 22H6a2 2 0 0 1-1.755-2.96l5.51-10.08A2 2 0 0 0 10 8V2"></path><path d="M6.453 15h11.094"></path><path d="M8.5 2h7"></path></svg>
-                            <span class="text-sm text-zinc-700">Livestreamers' Hidden Value</span>
-                        </li>
-                    </ul>
-                </section>
-            </div>
-
-            <!-- Codes / Repos -->
-            <section id="codes">
-                <h2 class="text-xs font-medium text-zinc-400 uppercase tracking-wider mb-6">Codes &amp; Resources</h2>
-                <div class="grid grid-cols-1 gap-4">
-                    <a href="https://github.com/MansourShahhosseini/LLM-Tutorial" target="_blank" class="block p-4 rounded-lg border border-zinc-200 hover:border-zinc-300 hover:shadow-sm bg-white transition-all group">
-                        <div class="flex items-center justify-between mb-1">
-                            <div class="flex items-center gap-2">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="terminal" class="lucide lucide-terminal w-4 h-4 text-zinc-400 group-hover:text-zinc-900 transition-colors"><path d="M12 19h8"></path><path d="m4 17 6-6-6-6"></path></svg>
-                                <h3 class="text-sm font-medium text-zinc-900">LLMs Tutorial</h3>
-                            </div>
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="arrow-right" class="lucide lucide-arrow-right w-3.5 h-3.5 text-zinc-300 group-hover:text-zinc-900 transition-colors"><path d="M5 12h14"></path><path d="m12 5 7 7-7 7"></path></svg>
-                        </div>
-                        <p class="text-xs text-zinc-500 pl-6">Repository containing resources and code for Large Language Models.</p>
-                    </a>
-
-                    <a href="https://github.com/MansourShahhosseini/Quantitative-Economics" target="_blank" class="block p-4 rounded-lg border border-zinc-200 hover:border-zinc-300 hover:shadow-sm bg-white transition-all group">
-                         <div class="flex items-center justify-between mb-1">
-                            <div class="flex items-center gap-2">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="bar-chart-2" class="lucide lucide-bar-chart-2 w-4 h-4 text-zinc-400 group-hover:text-zinc-900 transition-colors"><path d="M5 21v-6"></path><path d="M12 21V3"></path><path d="M19 21V9"></path></svg>
-                                <h3 class="text-sm font-medium text-zinc-900">Quantitative Economics</h3>
-                            </div>
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="arrow-right" class="lucide lucide-arrow-right w-3.5 h-3.5 text-zinc-300 group-hover:text-zinc-900 transition-colors"><path d="M5 12h14"></path><path d="m12 5 7 7-7 7"></path></svg>
-                        </div>
-                        <p class="text-xs text-zinc-500 pl-6">Tools and implementations for quantitative economic analysis.</p>
-                    </a>
-
-                    <a href="https://github.com/MansourShahhosseini/Face-Photograph-Memorability-Score" target="_blank" class="block p-4 rounded-lg border border-zinc-200 hover:border-zinc-300 hover:shadow-sm bg-white transition-all group">
-                         <div class="flex items-center justify-between mb-1">
-                            <div class="flex items-center gap-2">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="scan-face" class="lucide lucide-scan-face w-4 h-4 text-zinc-400 group-hover:text-zinc-900 transition-colors"><path d="M3 7V5a2 2 0 0 1 2-2h2"></path><path d="M17 3h2a2 2 0 0 1 2 2v2"></path><path d="M21 17v2a2 2 0 0 1-2 2h-2"></path><path d="M7 21H5a2 2 0 0 1-2-2v-2"></path><path d="M8 14s1.5 2 4 2 4-2 4-2"></path><path d="M9 9h.01"></path><path d="M15 9h.01"></path></svg>
-                                <h3 class="text-sm font-medium text-zinc-900">Face Memorability Prediction</h3>
-                            </div>
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-lucide="arrow-right" class="lucide lucide-arrow-right w-3.5 h-3.5 text-zinc-300 group-hover:text-zinc-900 transition-colors"><path d="M5 12h14"></path><path d="m12 5 7 7-7 7"></path></svg>
-                        </div>
-                        <p class="text-xs text-zinc-500 pl-6">Deep learning model to predict memorability scores of photographs.</p>
-                    </a>
-                </div>
-            </section>
-
-        </main>
+<ul class="timeline">
+  <li class="timeline-item">
+    <span class="timeline-year">2025-2029 (Expected)</span>
+    <div class="timeline-content">
+      <h4>PhD Student</h4>
+      <p>in Quantitative Marketing<br>The University of Texas at Dallas</p>
     </div>
+  </li>    
+  <li class="timeline-item">
+    <span class="timeline-year">2023-2025</span>
+    <div class="timeline-content">
+      <h4>Master of Business Research</h4>
+      <p>in Quantitative Marketing<br>Temple University</p>
+    </div>
+  </li>      
+  <li class="timeline-item">
+    <span class="timeline-year">2020-2023</span>
+    <div class="timeline-content">
+      <h4>Master of Business Administration</h4>
+      <p>in Marketing<br>Sharif University of Technology</p>
+    </div>
+  </li>
+  <li class="timeline-item">
+    <span class="timeline-year">2016-2020</span>
+    <div class="timeline-content">
+      <h4>Bachelor of Science</h4>
+      <p>in Materials Engineering<br>Iran University of Science and Technology</p>
+    </div>
+  </li>
+</ul>
 
-    <script>
-        lucide.createIcons();
-    </script>
+## <a name="publications"></a>Publications
+- Shahhosseini, M., & Khalili Nasr, A. (2024). [*What attributes affect customer satisfaction in green restaurants? An aspect-based sentiment analysis approach.*](https://www.tandfonline.com/doi/abs/10.1080/10548408.2024.2306358)  
+  Journal of Travel & Tourism Marketing, 41(4), 472–490.  
+  
+## <a name="working-papers"></a>Working Papers
+- "How to Sell in the Secondhand Market"
+- "What Makes a Movie Trailer Great?"
+  
+## <a name="working-in_progress"></a>Work in Progress
+- "Customer Guided GenAI"
+- "Livestreamers' Hidden Value"
+  
+## <a name="codes"></a>Codes
+- [LLMs Tutorial](https://github.com/MansourShahhosseini/LLM-Tutorial)
+- [Quantitative Economics](https://github.com/MansourShahhosseini/Quantitative-Economics)
+- [Face Memorability Prediction](https://github.com/MansourShahhosseini/Face-Photograph-Memorability-Score)
 
-</body></html>
+
+## <a name="contact"></a>Contact
+<!-- Example: inline links with icons and spacing -->
+[<img src="https://img.icons8.com/ios-filled/20/000000/new-post.png" alt="Email Icon"> **Email**](mailto:mansour.shahhosseini@utdallas.edu)&emsp;
+[<img src="https://img.icons8.com/ios-glyphs/20/000000/github.png" alt="GitHub Icon"> **GitHub**](https://github.com/MansourShahhosseini)&emsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/768px-Google_Scholar_logo.svg.png" width="20" height="20" alt="Google Scholar Icon"> **Google Scholar**](https://scholar.google.com/citations?user=8iK7T7EAAAAJ&hl=en)&emsp;
+[<img src="https://pbs.twimg.com/profile_images/1478307374506995713/6RA1Ax4__400x400.jpg" width="20" height="20" alt="Linkedin Icon"> **linkedin**](https://www.linkedin.com/in/mansourshahhosseini/)
