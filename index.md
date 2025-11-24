@@ -13,13 +13,8 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 </script>
 
-<style>
-/* Make the whole background white */
-html, body, .site, .page-content, .wrapper {
-  background-color: #ffffff !important;
-  background-image: none !important;
-}
 
+<style>
 /* Remove the horizontal rule above the image */
 hr {
   display: none; /* Hides all <hr> elements */
@@ -29,13 +24,14 @@ hr {
 header + hr {
   display: none;
 }
+</style>
 
+<style>
 /* Center the text */
 .text-container {
   text-align: center;
   margin-bottom: 10px; /* Adjust space */
 }
-
 /* Profile image with larger size */
 .my-profile-pic {
   display: block;
@@ -46,7 +42,6 @@ header + hr {
   object-fit: contain;
   background-color: transparent; /* Ensure it blends with the background */
 }
-
 /* Black line - position controlled to prevent extra space */
 .black-line {
   border: none;
@@ -55,11 +50,9 @@ header + hr {
   width: 80%; /* Adjust width to fit layout */
 }
 </style>
-
 <!-- Name and Title -->
 <div class="text-container">
 </div>
-
 <!-- Profile Picture (Ensure it's transparent for a clean effect) -->
 <img src="assets/profile.jpg" alt="Profile Photo" class="my-profile-pic" />
 
@@ -71,7 +64,6 @@ Please see my CV [Here](https://www.dropbox.com/scl/fi/xesa5zyqnbydtcvs8wkty/Man
 **Methods:** Econometrics, Causal Inference, Deep Learning
 
 ## <a name="education"></a>Education
-
 <!-- Inline CSS for a simple vertical timeline -->
 <style>
 .timeline {
@@ -118,6 +110,7 @@ Please see my CV [Here](https://www.dropbox.com/scl/fi/xesa5zyqnbydtcvs8wkty/Man
   margin: 0.5rem 0 0;
   color: #666;
 }
+
 .timeline li {
   list-style: none !important;
   list-style-type: none !important;
@@ -158,7 +151,7 @@ Please see my CV [Here](https://www.dropbox.com/scl/fi/xesa5zyqnbydtcvs8wkty/Man
 ## <a name="publications"></a>Publications
 - Shahhosseini, M., & Khalili Nasr, A. (2024). [*What attributes affect customer satisfaction in green restaurants? An aspect-based sentiment analysis approach.*](https://www.tandfonline.com/doi/abs/10.1080/10548408.2024.2306358)  
   Journal of Travel & Tourism Marketing, 41(4), 472–490.  
-
+  
 ## <a name="working-papers"></a>Working Papers
 - "How to Sell in the Secondhand Market"
 - "What Makes a Movie Trailer Great?"
@@ -172,7 +165,9 @@ Please see my CV [Here](https://www.dropbox.com/scl/fi/xesa5zyqnbydtcvs8wkty/Man
 - [Quantitative Economics](https://github.com/MansourShahhosseini/Quantitative-Economics)
 - [Face Memorability Prediction](https://github.com/MansourShahhosseini/Face-Photograph-Memorability-Score)
 
+
 ## <a name="contact"></a>Contact
+<!-- Example: inline links with icons and spacing -->
 [<img src="https://img.icons8.com/ios-filled/20/000000/new-post.png" alt="Email Icon"> **Email**](mailto:mansour.shahhosseini@utdallas.edu)&emsp;
 [<img src="https://img.icons8.com/ios-glyphs/20/000000/github.png" alt="GitHub Icon"> **GitHub**](https://github.com/MansourShahhosseini)&emsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/768px-Google_Scholar_logo.svg.png" width="20" height="20" alt="Google Scholar Icon"> **Google Scholar**](https://scholar.google.com/citations?user=8iK7T7EAAAAJ&hl=en)&emsp;
